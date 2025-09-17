@@ -1,5 +1,5 @@
 Package: ohwhaley
-Title: What the Package Does (One Line, Title Case)
+Title: This is week8.
 Version: 0.0.0.9000
 Authors@R: 
     person("Kishore", "Sakthivel Selvam", , "kishore.sakthivelselvam@students.mq.edu.au", role = c("aut", "cre"))
